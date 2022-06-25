@@ -4,7 +4,7 @@ I'm a Software Engineer based in Hargeisa, Somaliland. I Spend most of time codi
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Iamshabel-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/NouhYonis) [![Linkedin Badge](https://img.shields.io/badge/-Mubarak-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonis-nouh-a89124157/) [![Mail Badge](https://img.shields.io/badge/-Mubarak-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yoonis7881@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@NouhYonis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/NouhYonis) [![Linkedin Badge](https://img.shields.io/badge/-Yonis Nouh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonis-nouh-a89124157/) [![Mail Badge](https://img.shields.io/badge/-Yonis Nouh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yoonis7881@gmail.com)
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!-- TODO: Add last video link -->
