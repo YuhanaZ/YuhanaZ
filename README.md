@@ -1,4 +1,4 @@
-## Hi I'm Yonis <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I'm Yonis <img src="https://img.freepik.com/free-vector/web-development-programming-languages-css-html-it-ui-programmer-cartoon-character-developing-website-coding-flat-illustration-banner_128772-1227.jpg" width="28px" alt="hi">
 
 I’m a web developer with a background in Graphic design, eager to join a creative problem solving team.
  Ability to learn and implement new technologies quickly. My skills include React, Node JS,Javascript and also have advaned spreadsheet technologies. These skills were learned at the Fikrcamp coding bootcamp.
