@@ -8,7 +8,7 @@ I’m a web developer with a background in Graphic design, eager to join a creat
 [![Twitter Badge](https://img.shields.io/badge/-@NouhYonis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/NouhYonis) [![Linkedin Badge](https://img.shields.io/badge/-Yonis-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonis-nouh-a89124157/) [![Mail Badge](https://img.shields.io/badge/-Yonis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yoonis7881@gmail.com)
 
 <!-- TODO: Add last video link -->
-<img width="55%" align="right" alt="Github" src="https://media.istockphoto.com/vectors/working-at-home-vector-flat-style-illustration-online-career-space-vector-id1241710727?b=1&k=20&m=1241710727&s=170667a&w=0&h=TH-n9JrD1BFzemwari9VgBtx6dVmNnm3KrYhLEtx0B4=" />
+<img width="55%" align="right" alt="Github" src="onpc.png>
 
 
 - 🔭 I’m currently learning Nodejs and React
