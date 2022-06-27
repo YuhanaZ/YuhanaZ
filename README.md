@@ -7,10 +7,11 @@ I’m a web developer with a background in Graphic design, eager to join a creat
 
 [![Twitter Badge](https://img.shields.io/badge/-@NouhYonis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/NouhYonis) [![Linkedin Badge](https://img.shields.io/badge/-Yonis-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonis-nouh-a89124157/) [![Mail Badge](https://img.shields.io/badge/-Yonis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yoonis7881@gmail.com)
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!-- TODO: Add last video link -->
+<img width="55%" align="right" alt="Github" src="https://thumbs.dreamstime.com/z/%C3%B0%C2%BF%C3%B0%C2%B5%C3%B1%E2%80%A1%C3%B0%C2%B0%C3%B1%E2%80%9A%C3%B1%C5%93-141696675.jpg" />
 
-- 🔭 I’m currently learning Nodejs and GraphQL
+
+- 🔭 I’m currently learning Nodejs and React
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Frontend sides.
 - 📫 How to reach me: yoonis7881@gmail.com.
