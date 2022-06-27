@@ -1,5 +1,6 @@
-## Hi I'm Yonis <img src="https://img.freepik.com/free-vector/web-development-programming-languages-css-html-it-ui-programmer-cartoon-character-developing-website-coding-flat-illustration-banner_128772-1227.jpg" width="100%" alt="hi">
-
+ <img src="https://img.freepik.com/free-vector/web-development-programming-languages-css-html-it-ui-programmer-cartoon-character-developing-website-coding-flat-illustration-banner_128772-1227.jpg" width="100%" alt="hi">
+ 
+## Hi I'm Yonis
 I’m a web developer with a background in Graphic design, eager to join a creative problem solving team.
  Ability to learn and implement new technologies quickly. My skills include React, Node JS,Javascript and also have advaned spreadsheet technologies. These skills were learned at the Fikrcamp coding bootcamp.
 
