@@ -1,4 +1,4 @@
- <img src="https://img.freepik.com/free-vector/web-development-programming-languages-css-html-it-ui-programmer-cartoon-character-developing-website-coding-flat-illustration-banner_128772-1227.jpg" width="100%" alt="hi">
+ <img src="https://www.canva.com/design/DAGMJQLJ_L8/TW6Gvvly05fapgrK2Xs4sQ/edit?utm_content=DAGMJQLJ_L8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="100%" alt="hi">
  
 ## Hi I'm Yonis
 I’m a web developer with a background in Graphic design, eager to join a creative problem solving team.
