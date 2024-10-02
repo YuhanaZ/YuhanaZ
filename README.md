@@ -1,4 +1,4 @@
- <img src="https://www.canva.com/design/DAGMJQLJ_L8/TW6Gvvly05fapgrK2Xs4sQ/edit?utm_content=DAGMJQLJ_L8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://drive.google.com/file/d/1OhQ0-El9IJcxgZ61u8g_T1AE2rxVwL4s/view?usp=drive_link" width="100%" alt="hi">
+ <img src="https://drive.google.com/file/d/1OhQ0-El9IJcxgZ61u8g_T1AE2rxVwL4s/view?usp=drive_link" width="100%" alt="hi">
  
 ## Hi I'm Yonis
 I’m a web developer with a background in Graphic design, eager to join a creative problem solving team.
